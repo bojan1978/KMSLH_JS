@@ -1,0 +1,22 @@
+{
+  "name": "kmslh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "book_a_demo": "npx playwright test book-demo.spec.js --project chromium",
+    "validate_toggles": "npx playwright test accessibilityToggles.spec.js --project chromium",
+    "header_links": "npx playwright test headerLinks.spec.js --project chromium",
+    "buttons": "npx playwright test homePageButtons.spec.js --project chromium",
+    "all_tests-chrome": "npx playwright test --project chromium",
+    "all_tests": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.3"
+  }
+}

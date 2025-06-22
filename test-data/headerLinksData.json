@@ -1,0 +1,59 @@
+{
+    "headerLink": {
+        "Our_solutions": "Our solutions",
+        "Resources": "Resources",
+        "About_us": "About",
+        "Integrations": "Integrations",
+        "Case_Studies": "Case Studies"
+    },
+    "hoverLink": {
+        "Call_center": "Call Center",
+        "Self_Service": "Self Service",
+        "Onboarding_Training": "Onboarding & Training",
+        "Field_Service": "Field Service",
+        "Blog": "Blog",
+        "Videos": "Videos",
+        "News": "News",
+        "Guides": "Guides",
+        "Webinars": "Webinars",
+        "Reports": "Reports",
+        "ROI_Calculator": "ROI Calculator",
+        "About_us": "About us",
+        "Careers": "Careers",
+        "Lighthouse_University": "Lighthouse University",
+        "Contact_us": "Contact us"
+    },
+    "breadcrumbTitle": {
+        "Call_center": "Knowledge Management » Call Center",
+        "Self_Service": "Knowledge Management » Self Service",
+        "Onboarding_Training": "Knowledge Management » Onboarding",
+        "Field_Service": "Knowledge Management » Field Service",
+        "Blog": "Knowledge Center » Blog",
+        "Videos": "Knowledge Center » Video",
+        "News": "Knowledge Center » News",
+        "Guides": "Knowledge Center » Guide",
+        "Webinars": "Knowledge Center » Webinar",
+        "Reports": "Knowledge Center » Report",
+        "ROI_Calculator": "ROI Calculator",
+        "About_us": "About",
+        "Careers": "Careers",
+        "Lighthouse_University": "KMS University",
+        "Contact_us": "Contact us",
+        "Integrations": "Our Integrations",
+        "Case_Studies": "Case studies"
+    },
+    "pageTitle": {
+        "Call_center": "Cut call center holding  times by 40%",
+        "Self_Service": "Empower Your CustomersWith 24/7 Knowledge",
+        "Onboarding_Training": "Cut Onboarding And TrainingCosts By Up To 70%",
+        "Field_Service": "Reduce Your Field Teams  Time-On-Site By 60%",
+        "Resources": "Stay up to date with our Resource Center",
+        "ROI_Calculator": "Determine Your Knowledge Management ROI ",
+        "About_us": "We're on a mission to provide groundbreaking knowledge management solutions",
+        "Careers": "Illuminate your career at KMS Lighthouse",
+        "Lighthouse_University": "KMS Lighthouse\nUniversity",
+        "Contact_us": "Take your company knowledge to the next level.",
+        "Integrations": "Natively Integrates With Your Favorite Applications",
+        "Case_Studies": "Our Clients Shares Their Success Stories"
+    }
+}

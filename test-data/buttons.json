@@ -1,0 +1,60 @@
+{
+    "scrollDataID": 
+    {
+        "Management_tab": "[data-id=\"ac400c0\"]",
+        "Data_section_tab": "[data-id=\"2e87ba8\"]",
+        "Integrations_tab": "[data-id=\"342a2a8\"]",
+        "Knowledge_section": "[data-id=\"ac400c0\"]",
+        "Tailored_demo_button": "[data-id=\"3db877eb\"]"
+    },
+    "tabTitle":
+    {
+        "Self_Service": "Self Service",
+        "Onboarding_Training": "Onboarding Training",
+        "Field_Service": "Field Service",
+        "Call_Center": "Call Center",
+        "Radio_1": "Year 1",
+        "Radio_2": "Year 2",
+        "Radio_3": "Year 3",
+        "AWS_Integration": "AWS Integration",
+        "Azure": "Azure OpenAI Integration",
+        "Salesforce": "Salesforce Integration",
+        "Genesys": "Genesys Integration"
+    },
+    "buttonTitle":
+    {
+        "Learn_more": "Learn More",
+        "AWS_Integration": "View Amazon Marketplace",
+        "Azure": "View Microsoft AppSource",
+        "Salesforce": "View App Exchange",
+        "Genesys": "View App Foundery"
+    },
+    "scrollLocator":
+    {
+        "Radio_1": "#e-n-tab-title-584566041",
+        "Radio_2": "#e-n-tab-title-584566042",
+        "Radio_3": "#e-n-tab-title-584566043",
+        "AWS_Integration": "[data-id=\"baab522\"]",
+        "Azure": "[data-id=\"dc53700\"]",
+        "Salesforce": "[data-id=\"f4f95c8\"]",
+        "Genesys": "[data-id=\"c012986\"]",
+        "Integration": "[data-id=\"b429599\"]"
+    },
+    "pageTitle": {
+        "AWS_Integration": "Supercharge your knowledge management with our AWS integration",
+        "Azure": "Elevate your knowledgemanagement to new heights with our Azure OpenAI integration",
+        "Salesforce": "Empower your Salesforce journey with KMS Lighthouse’s knowledge synergy",
+        "Genesys": "Optimize customer interactions with the Genesys integration by KMS Lighthouse",
+        "Call_center": "Cut call center holding times by 40%",
+        "Self_Service": "Empower your customers with 24/7 knowledge",
+        "Onboarding_Training": "Cut onboarding and training costs by up to 70%",
+        "Field_Service": "Reduce your field teams time-on-site by 60%"
+    },
+    "redirectionLinks":
+    {
+        "AWS_Integration": "https://aws.amazon.com/",
+        "Azure": "https://appsource.microsoft.com/",
+        "Salesforce": "https://appexchange.salesforce.com/",
+        "Genesys": "https://appfoundry.genesys.com/"
+    }
+}
